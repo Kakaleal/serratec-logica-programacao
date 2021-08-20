@@ -1,0 +1,20 @@
+a. interger 
+b. string 
+c.float 
+d. boleano
+e. interger 
+f. interger 
+g.boleano
+h.date 
+i.float 
+j.interger 
+k.date 
+l.interger 
+m.string
+n. string 
+o.interger 
+p.timestamp 
+q.float 
+r.interger 
+s.boleano 
+t.interger 
