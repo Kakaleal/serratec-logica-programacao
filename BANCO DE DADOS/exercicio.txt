@@ -1,0 +1,23 @@
+CREATE DATABASE bibliotecaTrabalho;
+CREATE TABLE pessoa(
+  nome_pessoa VarChar (100)
+  );
+
+CREATE TABLE livro(
+  nome_livro VarChar (100)
+  );
+
+CREATE TABLE aluguel(
+  preco_aluguel int
+  );
+INSERT INTO aluguel
+VALUES  ('120');
+
+INSERT INTO liVro
+VALUES ( 'CINDERELA');
+INSERT INTO pessoa
+VALUES (' KARINA');
+delete from livro;
+
+select * from aluguel, pessoa;
+
